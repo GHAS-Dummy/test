@@ -1,1 +1,11 @@
 PAT: "ghp_eA2ZuACmnqto0IVWT1VDlYdQJwNo762IzWbD"
+
+ 
+
+- name: AWS_SECRET_ACCESS_KEY
+          value: jMkzSXSPng5oxWl9aAnF1fblz/NZJWjAX8yED1Dq
+
+ 
+
+
+PAT: "ghp_eA2ZuACmnqto0IVWT1VDlYdQJwNo762IzWbE"
